@@ -1,2 +1,2 @@
-# Intelcon_Test
+# IntelconTest
 Interview test task for Intelcon
